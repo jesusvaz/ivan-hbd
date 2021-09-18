@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ivan-hbd/static/css/main.47f666f0.chunk.css",
+    "main.js": "/ivan-hbd/static/js/main.b730fcc5.chunk.js",
+    "main.js.map": "/ivan-hbd/static/js/main.b730fcc5.chunk.js.map",
+    "runtime~main.js": "/ivan-hbd/static/js/runtime~main.672c336d.js",
+    "runtime~main.js.map": "/ivan-hbd/static/js/runtime~main.672c336d.js.map",
+    "static/js/2.2268a77b.chunk.js": "/ivan-hbd/static/js/2.2268a77b.chunk.js",
+    "static/js/2.2268a77b.chunk.js.map": "/ivan-hbd/static/js/2.2268a77b.chunk.js.map",
+    "index.html": "/ivan-hbd/index.html",
+    "precache-manifest.c7a823b37640f8f421f95f8d42ac170b.js": "/ivan-hbd/precache-manifest.c7a823b37640f8f421f95f8d42ac170b.js",
+    "service-worker.js": "/ivan-hbd/service-worker.js",
+    "static/css/main.47f666f0.chunk.css.map": "/ivan-hbd/static/css/main.47f666f0.chunk.css.map",
+    "static/media/ivanCartoon.jpg": "/ivan-hbd/static/media/ivanCartoon.636ad660.jpg"
+  }
+}
